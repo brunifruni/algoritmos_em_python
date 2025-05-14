@@ -1,3 +1,4 @@
+# calcula o valor total a ser pago pelo aluguel de um carro, com base nos quilômetros rodados e na quantidade de dias de aluguel.
 km = int (input('Quantos km foram percorridos? '))
 dias = int(input('Quantos dias foram alugados?'))
 
