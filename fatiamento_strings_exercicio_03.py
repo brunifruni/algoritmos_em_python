@@ -1,3 +1,5 @@
+#fatiamento & manipulação de strings
+
 frase = input ('Digite uma frase: ')
 tam = len(frase)
 
